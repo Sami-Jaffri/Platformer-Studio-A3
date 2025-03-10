@@ -113,13 +113,13 @@ TextureImporter:
       name: SettingsMenuBG_0
       rect:
         serializedVersion: 2
-        x: 321
-        y: 276
-        width: 48
-        height: 21
+        x: 0
+        y: 0
+        width: 451
+        height: 451
       alignment: 0
       pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 30, y: 30, z: 30, w: 30}
       customData: 
       outline: []
       physicsShape: []
@@ -140,7 +140,7 @@ TextureImporter:
         width: 451
         height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 30, y: 30, z: 30, w: 30}
       customData: 
       outline: []
@@ -149,6 +149,28 @@ TextureImporter:
       bones: []
       spriteID: c0faf08026a42794ea3e976b4dae5f5a
       internalID: -25581444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingsMenuBG_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 451
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee810087c62091e4f84ed5c8b1448630
+      internalID: 999475458
       vertices: []
       indices: 
       edges: []
@@ -169,6 +191,7 @@ TextureImporter:
     nameFileIdTable:
       SettingsMenuBG_0: -587390366
       SettingsMenuBG_1: -25581444
+      SettingsMenuBG_2: 999475458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
